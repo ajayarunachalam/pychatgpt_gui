@@ -108,18 +108,15 @@ Step 2) Create the clone of the repository in your created virtual environment
 
     **or**
 
-.. code:: bash
-
     $ git clone https://github.com/ajayarunachalam/pychatgpt_gui
     $ cd pychatgpt_gui
     $ sudo bash setup.sh or python setup.py install
 	
-	**or**
+    **or**
 	
-.. code:: bash
-	>>> git clone https://github.com/ajayarunachalam/pychatgpt_gui
-	>>> cd pychatgpt_gui
-	>>> pip install -r requirements.txt
+    >>> git clone https://github.com/ajayarunachalam/pychatgpt_gui
+    >>> cd pychatgpt_gui
+    >>> pip install -r requirements.txt
 	
 Step 3) Setup the environment configuration for using OpenAI through API. Enter your OpenAI api key in the "api_key.json" file. Note:- Please replace the null string with your key. Check this link on how to get an OpenAI API key - https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/
 
