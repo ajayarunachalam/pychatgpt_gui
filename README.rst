@@ -7,8 +7,8 @@ pypi: https://pypi.org/project/pychatgpt_gui
 
 .. image:: images/main_ui.png
 
-**Check the Related Blog** - https://ajay-arunachalam08.medium.com/
-**Check the Related Blog** - https://ajay-arunachalam08.medium.com/
+**Check the Related Blog** - https://ajay-arunachalam08.medium.com/an-open-source-low-code-python-wrapper-for-easy-usage-of-the-large-language-models-such-as-e833985c9062
+**Check the Related Blog** - https://ajay-arunachalam08.medium.com/a-simple-and-easy-web-interface-for-large-language-models-c32698caea2b
 
 About pyChatGPT GUI
 ===================
@@ -17,7 +17,7 @@ About pyChatGPT GUI
 
 `pyChatGPT_GUI` is concieved, designed and developed by `Ajay Arunachalam` - https://www.linkedin.com/in/ajay-ph-d-4744581a/
 
-Please Note:- This work was just started, and by large still work in progress.
+Please Note:- This work is just started, and still by large is work under progress.
 
 
 The application provides the following services (not limited too):-
@@ -112,11 +112,11 @@ Step 2) Create the clone of the repository in your created virtual environment
     $ cd pychatgpt_gui
     $ sudo bash setup.sh or python setup.py install
 	
-    **or**
+	**or**
 	
-    >>> git clone https://github.com/ajayarunachalam/pychatgpt_gui
-    >>> cd pychatgpt_gui
-    >>> pip install -r requirements.txt
+	>>> git clone https://github.com/ajayarunachalam/pychatgpt_gui
+	>>> cd pychatgpt_gui
+	>>> pip install -r requirements.txt
 	
 Step 3) Setup the environment configuration for using OpenAI through API. Enter your OpenAI api key in the "api_key.json" file. Note:- Please replace the null string with your key. Check this link on how to get an OpenAI API key - https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/
 
@@ -154,5 +154,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 References
 ==========
-I take this opportunity to acknowledge and thanks the `openai`, `huggingface`, `langchain`, `gpt4all`, `pygpt4all` communities. 
-Also, my special mention to - `Ali Abid` and `Timothy Mugayi`.
+I take this opportunity to acknowledge and thanks the `openai`, `huggingface`, `langchain`, `gpt4all`, `pygpt4all`, `LlamaIndex` and the other open-source communities for their incredible contributions. Also, my special mention to — `Ali Abid` and `Timothy Mugayi`.
