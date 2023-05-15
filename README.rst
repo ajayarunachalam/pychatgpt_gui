@@ -132,6 +132,9 @@ Step 7) Launch the APP
 
 - **Windows users within the cloned folder just simply double-click the "run_app_windows.bat" file. Note:- Open the file with an Editor and replace with your virtual directory path within the file**
 
+- **Mac users navigate within the cloned folder and type in "sh run_app_mac.sh" in the terminal**
+
+
 The APP will launch with a URL as seen below.
 
 .. image:: images/app_run.png
