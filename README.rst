@@ -17,7 +17,7 @@ About pyChatGPT GUI
 
 `pyChatGPT_GUI` is concieved, designed and developed by `Ajay Arunachalam` - https://www.linkedin.com/in/ajay-ph-d-4744581a/
 
-Please Note:- This work is still by large is work under progress.
+Please Note:- This work is still by large work under progress.
 
 
 The application provides the following services (not limited too):-
