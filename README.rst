@@ -7,7 +7,7 @@ pypi: https://pypi.org/project/pychatgpt_gui
 
 .. image:: images/main_ui.png
 
-**Check the Related Blog** - https://ajay-arunachalam08.medium.com/an-open-source-low-code-python-wrapper-for-easy-usage-of-the-large-language-models-such-as-e833985c9062
+**Check the Related Blog** - https://medium.com/mlearning-ai/an-open-source-low-code-python-wrapper-for-easy-usage-of-the-large-language-models-such-as-e833985c9062
 **Check the Related Blog** - https://ajay-arunachalam08.medium.com/a-simple-and-easy-web-interface-for-large-language-models-c32698caea2b
 
 About pyChatGPT GUI
@@ -17,7 +17,7 @@ About pyChatGPT GUI
 
 `pyChatGPT_GUI` is concieved, designed and developed by `Ajay Arunachalam` - https://www.linkedin.com/in/ajay-ph-d-4744581a/
 
-Please Note:- This work is just started, and still by large is work under progress.
+Please Note:- This work is still by large is work under progress.
 
 
 The application provides the following services (not limited too):-
@@ -50,39 +50,6 @@ Who can try pychatgpt_ui?
 - Citizen Data Scientists who prefer a low code solution for quick testing.
 - Experienced Data Scientists who want to try out different use-cases as per their business context for quick prototyping.
 - Data Science Professionals and Consultants involved in building Proof-Of-Concept (POC) projects.
-
-
-Requirements
-============
-
--  **Python 3.x.x**
--  numpy
--  pandas
--  scipy
--  tqdm
--  openai
--  gpt_index==0.4.24
--  PyPDF2
--  PyCryptodome
--  gradio
--  scikit-learn
--  openai_whisper
--  TTS
--  gTTS
--  ffmpeg
--  ffprobe
--  SpeechRecognition
--  pyaudio
--  playsound
--  langchain
--  chromadb
--  tiktoken
--  pypdf
--  unstructured[local-inference]
--  nomic
--  pyllamacpp
--  pygpt4all
--  warnings
 
 Usage Steps
 ===========
