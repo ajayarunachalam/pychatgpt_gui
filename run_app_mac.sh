@@ -18,7 +18,7 @@ source pychatgpt_ui_test/bin/activate
 
 ## Navigate to where you want to store your code. Create new directory.
 
-git clone https://github.com/ajayarunachalam/pychatgpt_gui.git && cd pychatgpt_ui
+git clone https://github.com/ajayarunachalam/pychatgpt_gui.git && cd pychatgpt_gui
 
 # assumes running from root directory
 python3 app.py
